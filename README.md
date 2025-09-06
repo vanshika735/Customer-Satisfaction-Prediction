@@ -6,7 +6,7 @@ The aim is to help businesses identify the key factors that influence customer s
 
 # Machine Learning Model
 
-Algorithm Used: Random Forest Classifier ,
+Algorithm Used: Random Forest Classifier ,Logistic Regression,Support Machine Vector
 Train/Test Split: 80/20
 
 Feature Scaling: StandardScaler
